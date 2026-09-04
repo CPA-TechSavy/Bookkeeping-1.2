@@ -1,0 +1,6 @@
+{
+  "name": "EntityBooks - Multi-Company Bookkeeping",
+  "description": "Professional multi-entity bookkeeping and financial management with company data isolation, double-entry general ledger, and detailed financial reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
